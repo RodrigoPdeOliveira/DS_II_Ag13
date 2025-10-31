@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiAppHotel.Views.Sobre"
+             Title="Sobre">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="20"
+            Spacing="15"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+
+            <Label
+                Text="MauiAppHotel"
+                FontSize="24"
+                FontAttributes="Bold"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Versão 1.0"
+                FontSize="18"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Desenvolvedor: Rodrigo Oliveira"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Ano de desenvolvimento: 2025"
+                FontSize="16"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Este aplicativo foi desenvolvido como parte de um projeto de estudo da EaDTEC."
+                FontSize="14"
+                HorizontalOptions="Center"
+                HorizontalTextAlignment="Center"
+                LineBreakMode="WordWrap"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
