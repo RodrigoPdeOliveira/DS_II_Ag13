@@ -11,6 +11,13 @@ Permite simular a contratação de quartos, exibindo informações de check-in, 
 - Tela "Sobre" com informações do desenvolvedor  
 - Interface com barra de navegação inferior (Shell TabBar)
 
+## Imagens
+![Página inicial](./img/01.jpg)
+
+![Página de custos](./img/02.jpg)
+
+![Página sobre](./img/03.jpg)
+
 ## Execução no Android
 
 ### Pré-requisitos
