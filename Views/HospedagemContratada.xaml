@@ -9,7 +9,7 @@
 
         <Label Text="{Binding QuartoSelecionado.Descricao}"
                TextColor="{StaticResource PrimaryDark}"
-               FontFamily="Kalam"
+               FontFamily="FacultyGlyphic"
                FontSize="50"
                HorizontalTextAlignment="Center"/>
 
